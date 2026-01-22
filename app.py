@@ -1,3 +1,11 @@
+#------------------------------------------------#
+# this program will create a graph of normed returns of 2 tickers
+# programmer : Kiran Kolli
+# Date : 21/01/2026
+
+
+
+
 import streamlit as st
 import yfinance as yf
 import pandas as pd
